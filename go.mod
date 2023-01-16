@@ -19,6 +19,7 @@ require (
 	github.com/pion/transport v0.14.1
 	github.com/sclevine/agouti v3.0.0+incompatible
 	github.com/stretchr/testify v1.8.1
-	golang.org/x/crypto v0.0.0-20221010152910-d6f0a8c073c2 // indirect
 	golang.org/x/net v0.4.0
 )
+
+replace github.com/pion/dtls/v2 v2.1.5 => github.com/xiaokangwang/dtls/v2 v2.0.0-20230116130736-cecb76dc0f8e
