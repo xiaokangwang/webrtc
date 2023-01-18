@@ -23,4 +23,4 @@ require (
 	golang.org/x/net v0.0.0-20220425223048-2871e0cb64e4
 )
 
-replace github.com/pion/dtls/v2 v2.1.5 => github.com/xiaokangwang/dtls/v2 v2.0.0-20230117114750-ac4a8437468c
+replace github.com/pion/dtls/v2 v2.1.5 => github.com/xiaokangwang/dtls/v2 v2.0.0-20230118142434-16e5cc8ce01c
